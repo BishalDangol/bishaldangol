@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bishal Dangol</h1>
 <h3 align="center">A passionate UI/UX designer, Backend Developer and WordPress Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisaldangol&label=Profile%20views&color=0e75b6&style=flat" alt="bisaldangol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaldangol&label=Profile%20views&color=0e75b6&style=flat" alt="bisaldangol" /> </p>
 
 - 🌱 I’m currently learning **Cyber Security, Backend with Express**
 
-- 👨‍💻 All of my projects are available at [github/BisalDangol](github/BisalDangol)
+- 👨‍💻 All of my projects are available at [github/BisalDangol](github/BishalDangol)
 
 - 💬 Ask me about **system design, mangoDB, recon, and WordPress.**
 
@@ -27,8 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bishaldangol"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishaldangol" /></a></p><br><br>
 
-<br><p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisaldangol&show_icons=true&locale=en&layout=compact" alt="bisaldangol" /></p>
+<br><p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishaldangol&show_icons=true&locale=en&layout=compact" alt="bisaldangol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisaldangol&show_icons=true&locale=en" alt="bisaldangol" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldangol&show_icons=true&locale=en" alt="bisaldangol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisaldangol&theme=tokyonight" alt="bisaldangol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishaldangol&theme=tokyonight" alt="bisaldangol" /></p>
